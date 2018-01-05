@@ -1,2 +1,2 @@
-# react-native-nari
+# react-native-nariapp
 Repository for nariapp
